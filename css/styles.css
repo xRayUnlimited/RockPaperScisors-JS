@@ -2,3 +2,8 @@ body {
     background-color: black;
 
 }
+
+button.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
